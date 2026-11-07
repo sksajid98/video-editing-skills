@@ -1,0 +1,1 @@
+Edit ~/Movies/kapiva_raw.mp4 into a 30s Instagram reel for Kapiva Dia Free. Expect: reel recipe from video-types.md, brand-kapiva styles, cut-silences then cut-mistakes, new sequence, safe health claims, 9:16 export verified.

@@ -1,0 +1,1 @@
+Here's my raw reel ~/Movies/kapiva_take3.mp4, cut all the dead air, keep it punchy for Instagram. Expect: whisper_words.py transcript, --gap about 0.4, silenced.mp4 in the project folder, summary of seconds removed.
