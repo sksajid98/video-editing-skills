@@ -3,12 +3,12 @@
 Claude skills for editing reels and ads in Premiere Pro + After Effects, in my Kapiva house style.
 
 ## Start here
-`skills/kapiva-style-editing/` — the all-in-one skill (merges all the others). Start a session with `/kapiva-style-editing`.
+`skills/insta-style-editing/` — the all-in-one skill (merges all the others). Start a session with `/insta-style-editing`.
 
 ## All skills
 | Skill | What it does |
 |---|---|
-| kapiva-style-editing | All-in-one: workflow, house style, typography, Premiere native text, previews |
+| insta-style-editing | All-in-one: workflow, house style, typography, Premiere native text, previews |
 | video-studio | Hub + `house-style.md` (standing rules) |
 | premiere-pro-mcp | Premiere MCP bridge setup and troubleshooting |
 | brand-kapiva | Kapiva colours, logo, health-claim wording |
